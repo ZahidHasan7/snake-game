@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671528438 source:c:\users\lenovo\desktop\project\snake game.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<time.h>
+
